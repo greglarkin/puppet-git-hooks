@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Disable this check for now
+exit 0
+
 # This script expects $1 to be passed and for $1 to be the filesystem location
 # to a json file for which it will run syntax checks against.
 
